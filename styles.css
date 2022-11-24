@@ -15,4 +15,11 @@ header{
 section{
     display: flex;
     background-color: darksalmon;
+    color: #fff
+}
+
+footer{
+    background-color: lightsalmon;
+    color: #000;
+
 }
